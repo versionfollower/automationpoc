@@ -1,14 +1,3 @@
-/**
- * @author Rajat Verma
- * https://www.linkedin.com/in/rajat-v-3b0685128/
- * https://github.com/rajatt95
- * https://rajatt95.github.io/
- *
- * Course: Appium Mobile Automation - Android & iOS + Frameworks + CICD (https://www.udemy.com/course/the-complete-appium-course-for-ios-and-android/)
- * Tutor: Omprakash Chavan (https://www.udemy.com/user/omprakash-chavan/)
- */
-
-/***************************************************/
 
 package com.appium.manager;
 
@@ -63,14 +52,6 @@ public class ServerManager {
     }
 
     public AppiumDriverLocalService getAppiumServiceForWindows() {
-
-        // GlobalParams params = new GlobalParams();
-//		return AppiumDriverLocalService.buildService(new AppiumServiceBuilder()
-//				.usingDriverExecutable(new File("C:\\Program Files\\nodejs\\node.exe"))
-//				.withAppiumJS(new File("C:\\Users\\rajatverma01\\AppData\\Roaming\\npm\\node_modules\\appium\\build\\lib\\main.js")).usingPort(4723)
-//				.withArgument(GeneralServerFlag.SESSION_OVERRIDE)
-//				//.withLogFile(new File("ServerLogs/server.log")));
-//				.withLogFile(new File(params.getPlatformName() + "_" + params.getDeviceName() + File.separator + "Server.log")));
 
         GlobalParams params = new GlobalParams();
         return AppiumDriverLocalService.buildService(new AppiumServiceBuilder().usingAnyFreePort()
