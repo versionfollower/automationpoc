@@ -1,0 +1,247 @@
+[Android_Nexus5 INFO ] 2024-02-06 11:28:20.865 ServerManager:42 - starting appium server
+[Android_Nexus5 INFO ] 2024-02-06 11:28:21.073 ServerManager:58 - Appium server started
+[Android_Nexus5 INFO ] 2024-02-06 11:28:21.105 DriverManager:43 - initializing Appium driver
+[Android_Nexus5 INFO ] 2024-02-06 11:28:21.129 PropertyManager:31 - loading config properties
+[Android_Nexus5 INFO ] 2024-02-06 11:28:21.131 CapabilitiesManager:32 - getting capabilities
+[Android_Nexus5 INFO ] 2024-02-06 11:28:21.136 CapabilitiesManager:50 - appUrl is/Users/user/eclipse-workspace/MasterAppiumFramework_BDD/src/test/resources/app/Android.SauceLabs.Mobile.Sample.app.2.7.1.apk
+[Android_Nexus5 INFO ] 2024-02-06 11:29:06.801 ServerManager:42 - starting appium server
+[Android_Nexus5 INFO ] 2024-02-06 11:29:06.940 ServerManager:58 - Appium server started
+[Android_Nexus5 INFO ] 2024-02-06 11:29:06.965 DriverManager:43 - initializing Appium driver
+[Android_Nexus5 INFO ] 2024-02-06 11:29:06.984 PropertyManager:31 - loading config properties
+[Android_Nexus5 INFO ] 2024-02-06 11:29:06.986 CapabilitiesManager:32 - getting capabilities
+[Android_Nexus5 INFO ] 2024-02-06 11:29:06.989 CapabilitiesManager:50 - appUrl is/Users/user/eclipse-workspace/MasterAppiumFramework_BDD/src/test/resources/app/Android.SauceLabs.Mobile.Sample.app.2.7.1.apk
+[Android_Nexus5 INFO ] 2024-02-06 11:37:02.226 ServerManager:42 - starting appium server
+[Android_Nexus5 INFO ] 2024-02-06 11:37:02.361 ServerManager:58 - Appium server started
+[Android_Nexus5 INFO ] 2024-02-06 11:37:02.376 DriverManager:43 - initializing Appium driver
+[Android_Nexus5 INFO ] 2024-02-06 11:37:02.392 PropertyManager:31 - loading config properties
+[Android_Nexus5 INFO ] 2024-02-06 11:37:02.393 CapabilitiesManager:32 - getting capabilities
+[Android_Nexus5 INFO ] 2024-02-06 11:37:02.395 CapabilitiesManager:50 - appUrl is/Users/user/eclipse-workspace/MasterAppiumFramework_BDD/src/test/resources/app/Android.SauceLabs.Mobile.Sample.app.2.7.1.apk
+[Android_Nexus5 INFO ] 2024-02-06 12:05:06.445 ServerManager:42 - starting appium server
+[Android_Nexus5 INFO ] 2024-02-06 12:05:06.610 ServerManager:58 - Appium server started
+[Android_Nexus5 INFO ] 2024-02-06 12:05:06.631 DriverManager:43 - initializing Appium driver
+[Android_Nexus5 INFO ] 2024-02-06 12:05:06.646 PropertyManager:31 - loading config properties
+[Android_Nexus5 INFO ] 2024-02-06 12:05:06.648 CapabilitiesManager:32 - getting capabilities
+[Android_Nexus5 INFO ] 2024-02-06 12:05:06.652 CapabilitiesManager:50 - appUrl is/Users/user/eclipse-workspace/MasterAppiumFramework_BDD/src/test/resources/app/Android.SauceLabs.Mobile.Sample.app.2.7.1.apk
+[Android_Nexus5 INFO ] 2024-02-06 12:13:36.502 ServerManager:42 - starting appium server
+[Android_Nexus5 INFO ] 2024-02-06 12:13:36.629 ServerManager:58 - Appium server started
+[Android_Nexus5 INFO ] 2024-02-06 12:13:36.648 DriverManager:43 - initializing Appium driver
+[Android_Nexus5 INFO ] 2024-02-06 12:13:36.669 PropertyManager:31 - loading config properties
+[Android_Nexus5 INFO ] 2024-02-06 12:13:36.670 CapabilitiesManager:32 - getting capabilities
+[Android_Nexus5 INFO ] 2024-02-06 12:13:36.672 CapabilitiesManager:50 - appUrl is/Users/user/eclipse-workspace/MasterAppiumFramework_BDD/src/test/resources/app/Android.SauceLabs.Mobile.Sample.app.2.7.1.apk
+[Android_Nexus5 INFO ] 2024-02-06 12:15:11.757 ServerManager:42 - starting appium server
+[Android_Nexus5 INFO ] 2024-02-06 12:15:11.870 ServerManager:58 - Appium server started
+[Android_Nexus5 INFO ] 2024-02-06 12:15:11.889 DriverManager:43 - initializing Appium driver
+[Android_Nexus5 INFO ] 2024-02-06 12:15:11.913 PropertyManager:31 - loading config properties
+[Android_Nexus5 INFO ] 2024-02-06 12:15:11.915 CapabilitiesManager:32 - getting capabilities
+[Android_Nexus5 INFO ] 2024-02-06 12:15:11.918 CapabilitiesManager:50 - appUrl is/Users/user/eclipse-workspace/MasterAppiumFramework_BDD/src/test/resources/app/Android.SauceLabs.Mobile.Sample.app.2.7.1.apk
+[Android_Nexus5 INFO ] 2024-02-06 12:20:28.514 ServerManager:42 - starting appium server
+[Android_Nexus5 INFO ] 2024-02-06 12:20:28.614 ServerManager:58 - Appium server started
+[Android_Nexus5 INFO ] 2024-02-06 12:20:28.628 DriverManager:43 - initializing Appium driver
+[Android_Nexus5 INFO ] 2024-02-06 12:20:28.642 PropertyManager:31 - loading config properties
+[Android_Nexus5 INFO ] 2024-02-06 12:20:28.644 CapabilitiesManager:33 - getting capabilities
+[Android_Nexus5 INFO ] 2024-02-06 12:20:28.647 CapabilitiesManager:51 - appUrl is/Users/user/eclipse-workspace/MasterAppiumFramework_BDD/src/test/resources/app/Android.SauceLabs.Mobile.Sample.app.2.7.1.apk
+[Android_Nexus5 INFO ] 2024-02-06 12:22:44.475 ServerManager:42 - starting appium server
+[Android_Nexus5 INFO ] 2024-02-06 12:22:44.577 ServerManager:58 - Appium server started
+[Android_Nexus5 INFO ] 2024-02-06 12:22:44.593 DriverManager:43 - initializing Appium driver
+[Android_Nexus5 INFO ] 2024-02-06 12:22:44.607 PropertyManager:31 - loading config properties
+[Android_Nexus5 INFO ] 2024-02-06 12:22:44.609 CapabilitiesManager:33 - getting capabilities
+[Android_Nexus5 INFO ] 2024-02-06 12:22:44.611 CapabilitiesManager:51 - appUrl is/Users/user/eclipse-workspace/MasterAppiumFramework_BDD/src/test/resources/app/u2laundryConsumerapp1.apk
+[Android_Nexus5 INFO ] 2024-02-06 12:22:54.053 DriverManager:60 - Driver is initialized
+[Android_Nexus5 INFO ] 2024-02-06 12:22:56.811 VideoManager:49 - video path: Android_Nexus5/Videos/Login with invalid user name.mp4
+[Android_Nexus5 INFO ] 2024-02-06 12:22:58.210 VideoManager:49 - video path: Android_Nexus5/Videos/Login with invalid password.mp4
+[Android_Nexus5 INFO ] 2024-02-06 12:23:01.478 VideoManager:49 - video path: Android_Nexus5/Videos/Login with valid user name and password.mp4
+[Android_Nexus5 INFO ] 2024-02-06 12:23:47.772 ServerManager:42 - starting appium server
+[Android_Nexus5 INFO ] 2024-02-06 12:23:47.872 ServerManager:58 - Appium server started
+[Android_Nexus5 INFO ] 2024-02-06 12:23:47.891 DriverManager:43 - initializing Appium driver
+[Android_Nexus5 INFO ] 2024-02-06 12:23:47.907 PropertyManager:31 - loading config properties
+[Android_Nexus5 INFO ] 2024-02-06 12:23:47.908 CapabilitiesManager:33 - getting capabilities
+[Android_Nexus5 INFO ] 2024-02-06 12:23:47.910 CapabilitiesManager:51 - appUrl is/Users/user/eclipse-workspace/MasterAppiumFramework_BDD/src/test/resources/app/Android.SauceLabs.Mobile.Sample.app.2.7.1.apk
+[Android_Nexus5 INFO ] 2024-02-06 12:25:27.259 ServerManager:42 - starting appium server
+[Android_Nexus5 INFO ] 2024-02-06 12:25:27.361 ServerManager:58 - Appium server started
+[Android_Nexus5 INFO ] 2024-02-06 12:25:27.379 DriverManager:43 - initializing Appium driver
+[Android_Nexus5 INFO ] 2024-02-06 12:25:27.393 PropertyManager:31 - loading config properties
+[Android_Nexus5 INFO ] 2024-02-06 12:25:27.395 CapabilitiesManager:33 - getting capabilities
+[Android_Nexus5 INFO ] 2024-02-06 12:25:27.397 CapabilitiesManager:51 - appUrl is/Users/user/eclipse-workspace/MasterAppiumFramework_BDD/src/test/resources/app/Android.SauceLabs.Mobile.Sample.app.2.7.1.apk
+[Android_Nexus5 INFO ] 2024-02-06 12:29:13.696 ServerManager:42 - starting appium server
+[Android_Nexus5 INFO ] 2024-02-06 12:29:13.806 ServerManager:58 - Appium server started
+[Android_Nexus5 INFO ] 2024-02-06 12:29:13.828 DriverManager:43 - initializing Appium driver
+[Android_Nexus5 INFO ] 2024-02-06 12:29:13.844 PropertyManager:31 - loading config properties
+[Android_Nexus5 INFO ] 2024-02-06 12:29:13.845 CapabilitiesManager:33 - getting capabilities
+[Android_Nexus5 INFO ] 2024-02-06 12:29:13.847 CapabilitiesManager:51 - appUrl is/Users/user/eclipse-workspace/MasterAppiumFramework_BDD/src/test/resources/app/Android.SauceLabs.Mobile.Sample.app.2.7.1.apk
+[Android_Nexus5 INFO ] 2024-02-06 12:29:50.020 ServerManager:42 - starting appium server
+[Android_Nexus5 INFO ] 2024-02-06 12:29:50.128 ServerManager:58 - Appium server started
+[Android_Nexus5 INFO ] 2024-02-06 12:29:50.146 DriverManager:43 - initializing Appium driver
+[Android_Nexus5 INFO ] 2024-02-06 12:29:50.163 PropertyManager:31 - loading config properties
+[Android_Nexus5 INFO ] 2024-02-06 12:29:50.165 CapabilitiesManager:33 - getting capabilities
+[Android_Nexus5 INFO ] 2024-02-06 12:29:50.167 CapabilitiesManager:51 - appUrl is/Users/user/eclipse-workspace/MasterAppiumFramework_BDD/src/test/resources/app/Android.SauceLabs.Mobile.Sample.app.2.7.1.apk
+[Android_Nexus5 INFO ] 2024-02-06 12:31:00.138 ServerManager:42 - starting appium server
+[Android_Nexus5 INFO ] 2024-02-06 12:31:00.238 ServerManager:58 - Appium server started
+[Android_Nexus5 INFO ] 2024-02-06 12:31:00.257 DriverManager:43 - initializing Appium driver
+[Android_Nexus5 INFO ] 2024-02-06 12:31:00.274 PropertyManager:31 - loading config properties
+[Android_Nexus5 INFO ] 2024-02-06 12:31:00.275 CapabilitiesManager:33 - getting capabilities
+[Android_Nexus5 INFO ] 2024-02-06 12:31:00.277 CapabilitiesManager:51 - appUrl is/Users/user/eclipse-workspace/MasterAppiumFramework_BDD/src/test/resources/app/Android.SauceLabs.Mobile.Sample.app.2.7.1.apk
+[Android_Nexus5 INFO ] 2024-02-06 12:35:56.902 ServerManager:42 - starting appium server
+[Android_Nexus5 INFO ] 2024-02-06 12:35:57.008 ServerManager:58 - Appium server started
+[Android_Nexus5 INFO ] 2024-02-06 12:35:57.025 DriverManager:43 - initializing Appium driver
+[Android_Nexus5 INFO ] 2024-02-06 12:35:57.040 PropertyManager:31 - loading config properties
+[Android_Nexus5 INFO ] 2024-02-06 12:35:57.042 CapabilitiesManager:33 - getting capabilities
+[Android_Nexus5 INFO ] 2024-02-06 12:35:57.044 CapabilitiesManager:51 - appUrl is/Users/user/eclipse-workspace/MasterAppiumFramework_BDD/src/test/resources/app/Android.SauceLabs.Mobile.Sample.app.2.7.1.apk
+[Android_Nexus5 INFO ] 2024-02-06 12:36:04.389 DriverManager:60 - Driver is initialized
+[Android_Nexus5 INFO ] 2024-02-06 12:36:06.930 VideoManager:49 - video path: Android_Nexus5/Videos/Login with invalid user name.mp4
+[Android_Nexus5 INFO ] 2024-02-06 12:36:08.306 VideoManager:49 - video path: Android_Nexus5/Videos/Login with invalid password.mp4
+[Android_Nexus5 INFO ] 2024-02-06 12:36:09.742 VideoManager:49 - video path: Android_Nexus5/Videos/Login with valid user name and password.mp4
+[Android_Nexus5 INFO ] 2024-02-06 12:47:26.415 ServerManager:42 - starting appium server
+[Android_Nexus5 INFO ] 2024-02-06 12:47:26.516 ServerManager:58 - Appium server started
+[Android_Nexus5 INFO ] 2024-02-06 12:47:26.535 DriverManager:43 - initializing Appium driver
+[Android_Nexus5 INFO ] 2024-02-06 12:47:26.552 PropertyManager:31 - loading config properties
+[Android_Nexus5 INFO ] 2024-02-06 12:47:26.553 CapabilitiesManager:33 - getting capabilities
+[Android_Nexus5 INFO ] 2024-02-06 12:47:26.555 CapabilitiesManager:51 - appUrl is/Users/user/eclipse-workspace/MasterAppiumFramework_BDD/src/test/resources/app/Android.SauceLabs.Mobile.Sample.app.2.7.1.apk
+[Android_Nexus5 INFO ] 2024-02-06 12:47:34.159 DriverManager:60 - Driver is initialized
+[Android_Nexus5 INFO ] 2024-02-06 12:47:36.415 VideoManager:49 - video path: Android_Nexus5/Videos/Login with invalid user name.mp4
+[Android_Nexus5 INFO ] 2024-02-06 12:47:37.775 VideoManager:49 - video path: Android_Nexus5/Videos/Login with invalid password.mp4
+[Android_Nexus5 INFO ] 2024-02-06 12:47:41.660 VideoManager:49 - video path: Android_Nexus5/Videos/Login with valid user name and password.mp4
+[Android_Nexus5 INFO ] 2024-02-06 12:51:50.179 ServerManager:42 - starting appium server
+[Android_Nexus5 INFO ] 2024-02-06 12:51:50.297 ServerManager:58 - Appium server started
+[Android_Nexus5 INFO ] 2024-02-06 12:51:50.315 DriverManager:43 - initializing Appium driver
+[Android_Nexus5 INFO ] 2024-02-06 12:51:50.329 PropertyManager:31 - loading config properties
+[Android_Nexus5 INFO ] 2024-02-06 12:51:50.331 CapabilitiesManager:33 - getting capabilities
+[Android_Nexus5 INFO ] 2024-02-06 12:51:50.333 CapabilitiesManager:51 - appUrl is/Users/user/eclipse-workspace/MasterAppiumFramework_BDD/src/test/resources/app/Android.SauceLabs.Mobile.Sample.app.2.7.1.apk
+[Android_Nexus5 INFO ] 2024-02-06 12:51:57.855 DriverManager:60 - Driver is initialized
+[Android_Nexus5 INFO ] 2024-02-06 12:52:00.117 VideoManager:49 - video path: Android_Nexus5/Videos/Login with invalid user name.mp4
+[Android_Nexus5 INFO ] 2024-02-06 12:52:01.422 VideoManager:49 - video path: Android_Nexus5/Videos/Login with invalid password.mp4
+[Android_Nexus5 INFO ] 2024-02-06 12:52:02.678 VideoManager:49 - video path: Android_Nexus5/Videos/Login with valid user name and password.mp4
+[Android_Nexus5 INFO ] 2024-02-06 12:55:36.995 ServerManager:42 - starting appium server
+[Android_Nexus5 INFO ] 2024-02-06 12:55:37.104 ServerManager:58 - Appium server started
+[Android_Nexus5 INFO ] 2024-02-06 12:55:37.122 DriverManager:43 - initializing Appium driver
+[Android_Nexus5 INFO ] 2024-02-06 12:55:37.137 PropertyManager:31 - loading config properties
+[Android_Nexus5 INFO ] 2024-02-06 12:55:37.139 CapabilitiesManager:33 - getting capabilities
+[Android_Nexus5 INFO ] 2024-02-06 12:55:37.141 CapabilitiesManager:51 - appUrl is/Users/user/eclipse-workspace/MasterAppiumFramework_BDD/src/test/resources/app/Android.SauceLabs.Mobile.Sample.app.2.7.1.apk
+[Android_Nexus5 INFO ] 2024-02-06 12:55:44.635 DriverManager:60 - Driver is initialized
+[Android_Nexus5 INFO ] 2024-02-06 12:55:47.045 VideoManager:49 - video path: Android_Nexus5/Videos/Login with invalid user name.mp4
+[Android_Nexus5 INFO ] 2024-02-06 12:55:48.436 VideoManager:49 - video path: Android_Nexus5/Videos/Login with invalid password.mp4
+[Android_Nexus5 INFO ] 2024-02-06 12:55:49.731 VideoManager:49 - video path: Android_Nexus5/Videos/Login with valid user name and password.mp4
+[Android_Nexus5 INFO ] 2024-02-06 13:09:54.274 ServerManager:42 - starting appium server
+[Android_Nexus5 INFO ] 2024-02-06 13:09:54.385 ServerManager:58 - Appium server started
+[Android_Nexus5 INFO ] 2024-02-06 13:09:54.403 DriverManager:43 - initializing Appium driver
+[Android_Nexus5 INFO ] 2024-02-06 13:09:54.418 PropertyManager:31 - loading config properties
+[Android_Nexus5 INFO ] 2024-02-06 13:09:54.420 CapabilitiesManager:33 - getting capabilities
+[Android_Nexus5 INFO ] 2024-02-06 13:09:54.422 CapabilitiesManager:51 - appUrl is/Users/user/eclipse-workspace/MasterAppiumFramework_BDD/src/test/resources/app/Android.SauceLabs.Mobile.Sample.app.2.7.1.apk
+[Android_Nexus5 INFO ] 2024-02-06 13:10:02.026 DriverManager:60 - Driver is initialized
+[Android_Nexus5 INFO ] 2024-02-06 13:10:04.302 VideoManager:49 - video path: Android_Nexus5/Videos/Login with invalid user name.mp4
+[Android_Nexus5 INFO ] 2024-02-06 13:10:05.709 VideoManager:49 - video path: Android_Nexus5/Videos/Login with invalid password.mp4
+[Android_Nexus5 INFO ] 2024-02-06 13:10:07.047 VideoManager:49 - video path: Android_Nexus5/Videos/Login with valid user name and password.mp4
+[Android_Nexus5 INFO ] 2024-02-06 13:11:26.469 ServerManager:42 - starting appium server
+[Android_Nexus5 INFO ] 2024-02-06 13:11:26.568 ServerManager:58 - Appium server started
+[Android_Nexus5 INFO ] 2024-02-06 13:11:26.585 DriverManager:43 - initializing Appium driver
+[Android_Nexus5 INFO ] 2024-02-06 13:11:26.601 PropertyManager:31 - loading config properties
+[Android_Nexus5 INFO ] 2024-02-06 13:11:26.603 CapabilitiesManager:33 - getting capabilities
+[Android_Nexus5 INFO ] 2024-02-06 13:11:26.605 CapabilitiesManager:51 - appUrl is/Users/user/eclipse-workspace/MasterAppiumFramework_BDD/src/test/resources/app/Android.SauceLabs.Mobile.Sample.app.2.7.1.apk
+[Android_Nexus5 INFO ] 2024-02-06 13:11:34.025 DriverManager:60 - Driver is initialized
+[Android_Nexus5 INFO ] 2024-02-06 13:11:36.145 VideoManager:49 - video path: Android_Nexus5/Videos/Login with invalid user name.mp4
+[Android_Nexus5 INFO ] 2024-02-06 13:11:37.484 VideoManager:49 - video path: Android_Nexus5/Videos/Login with invalid password.mp4
+[Android_Nexus5 INFO ] 2024-02-06 13:11:38.742 VideoManager:49 - video path: Android_Nexus5/Videos/Login with valid user name and password.mp4
+[Android_Nexus5 INFO ] 2024-02-06 13:26:35.345 ServerManager:42 - starting appium server
+[Android_Nexus5 INFO ] 2024-02-06 13:27:09.566 ServerManager:42 - starting appium server
+[Android_Nexus5 INFO ] 2024-02-06 13:27:09.692 ServerManager:58 - Appium server started
+[Android_Nexus5 INFO ] 2024-02-06 13:27:09.723 DriverManager:43 - initializing Appium driver
+[Android_Nexus5 INFO ] 2024-02-06 13:27:09.745 PropertyManager:31 - loading config properties
+[Android_Nexus5 INFO ] 2024-02-06 13:27:09.747 CapabilitiesManager:33 - getting capabilities
+[Android_Nexus5 INFO ] 2024-02-06 13:27:09.751 CapabilitiesManager:51 - appUrl is/Users/user/eclipse-workspace/MasterAppiumFramework_BDD/src/test/resources/app/Android.SauceLabs.Mobile.Sample.app.2.7.1.apk
+[Android_Nexus5 INFO ] 2024-02-06 13:27:17.484 DriverManager:60 - Driver is initialized
+[Android_Nexus5 INFO ] 2024-02-06 13:27:19.913 BasePage:90 - login with invalidUsername
+[Android_Nexus5 INFO ] 2024-02-06 13:27:21.639 BasePage:90 - password is secret_sauce
+[Android_Nexus5 INFO ] 2024-02-06 13:27:22.742 BasePage:73 - press login button
+[Android_Nexus5 INFO ] 2024-02-06 13:27:23.595 BasePage:116 - error text is - Username and password do not match any user in this service.
+[Android_Nexus5 INFO ] 2024-02-06 13:27:23.773 VideoManager:49 - video path: Android_Nexus5/Videos/Login with invalid user name.mp4
+[Android_Nexus5 INFO ] 2024-02-06 13:27:25.061 BasePage:90 - login with standard_user
+[Android_Nexus5 INFO ] 2024-02-06 13:27:26.739 BasePage:90 - password is invalidPassword
+[Android_Nexus5 INFO ] 2024-02-06 13:27:27.829 BasePage:73 - press login button
+[Android_Nexus5 INFO ] 2024-02-06 13:27:28.153 BasePage:116 - error text is - Username and password do not match any user in this service.
+[Android_Nexus5 INFO ] 2024-02-06 13:27:28.315 VideoManager:49 - video path: Android_Nexus5/Videos/Login with invalid password.mp4
+[Android_Nexus5 INFO ] 2024-02-06 13:27:29.591 BasePage:90 - login with standard_user
+[Android_Nexus5 INFO ] 2024-02-06 13:27:30.781 BasePage:90 - password is secret_sauce
+[Android_Nexus5 INFO ] 2024-02-06 13:27:31.876 BasePage:73 - press login button
+[Android_Nexus5 INFO ] 2024-02-06 13:27:45.652 VideoManager:49 - video path: Android_Nexus5/Videos/Login with valid user name and password.mp4
+[Android_Nexus5 INFO ] 2024-02-06 13:36:40.722 ServerManager:42 - starting appium server
+[Android_Nexus5 INFO ] 2024-02-06 13:36:40.844 ServerManager:58 - Appium server started
+[Android_Nexus5 INFO ] 2024-02-06 13:36:40.871 DriverManager:43 - initializing Appium driver
+[Android_Nexus5 INFO ] 2024-02-06 13:36:40.891 PropertyManager:31 - loading config properties
+[Android_Nexus5 INFO ] 2024-02-06 13:36:40.893 CapabilitiesManager:33 - getting capabilities
+[Android_Nexus5 INFO ] 2024-02-06 13:36:40.895 CapabilitiesManager:51 - appUrl is/Users/user/eclipse-workspace/MasterAppiumFramework_BDD/src/test/resources/app/Android.SauceLabs.Mobile.Sample.app.2.7.1.apk
+[Android_Nexus5 INFO ] 2024-02-06 13:36:49.055 DriverManager:60 - Driver is initialized
+[Android_Nexus5 INFO ] 2024-02-06 13:36:51.871 BasePage:90 - login with invalidUsername
+[Android_Nexus5 INFO ] 2024-02-06 13:36:53.074 BasePage:90 - password is secret_sauce
+[Android_Nexus5 INFO ] 2024-02-06 13:36:53.717 BasePage:73 - press login button
+[Android_Nexus5 INFO ] 2024-02-06 13:36:54.600 BasePage:116 - error text is - Username and password do not match any user in this service.
+[Android_Nexus5 INFO ] 2024-02-06 13:36:54.785 VideoManager:49 - video path: Android_Nexus5/Videos/Login with invalid user name.mp4
+[Android_Nexus5 INFO ] 2024-02-06 13:36:56.104 BasePage:90 - login with standard_user
+[Android_Nexus5 INFO ] 2024-02-06 13:36:57.280 BasePage:90 - password is invalidPassword
+[Android_Nexus5 INFO ] 2024-02-06 13:36:58.377 BasePage:73 - press login button
+[Android_Nexus5 INFO ] 2024-02-06 13:36:58.701 BasePage:116 - error text is - Username and password do not match any user in this service.
+[Android_Nexus5 INFO ] 2024-02-06 13:36:58.872 VideoManager:49 - video path: Android_Nexus5/Videos/Login with invalid password.mp4
+[Android_Nexus5 INFO ] 2024-02-06 13:37:00.144 BasePage:90 - login with standard_user
+[Android_Nexus5 INFO ] 2024-02-06 13:37:01.294 BasePage:90 - password is secret_sauce
+[Android_Nexus5 INFO ] 2024-02-06 13:37:02.384 BasePage:73 - press login button
+[Android_Nexus5 INFO ] 2024-02-06 13:37:15.259 VideoManager:49 - video path: Android_Nexus5/Videos/Login with valid user name and password.mp4
+[Android_Nexus5 INFO ] 2024-02-06 13:39:33.787 ServerManager:42 - starting appium server
+[Android_Nexus5 INFO ] 2024-02-06 13:39:33.906 ServerManager:58 - Appium server started
+[Android_Nexus5 INFO ] 2024-02-06 13:39:33.933 DriverManager:43 - initializing Appium driver
+[Android_Nexus5 INFO ] 2024-02-06 13:39:33.953 PropertyManager:31 - loading config properties
+[Android_Nexus5 INFO ] 2024-02-06 13:39:33.955 CapabilitiesManager:33 - getting capabilities
+[Android_Nexus5 INFO ] 2024-02-06 13:39:33.958 CapabilitiesManager:51 - appUrl is/Users/user/eclipse-workspace/MasterAppiumFramework_BDD/src/test/resources/app/Android.SauceLabs.Mobile.Sample.app.2.7.1.apk
+[Android_Nexus5 INFO ] 2024-02-06 13:39:42.356 DriverManager:60 - Driver is initialized
+[Android_Nexus5 INFO ] 2024-02-06 13:39:44.894 BasePage:90 - login with invalidUsername
+[Android_Nexus5 INFO ] 2024-02-06 13:39:46.597 BasePage:90 - password is secret_sauce
+[Android_Nexus5 INFO ] 2024-02-06 13:39:47.699 BasePage:73 - press login button
+[Android_Nexus5 INFO ] 2024-02-06 13:39:48.558 BasePage:116 - error text is - Username and password do not match any user in this service.
+[Android_Nexus5 INFO ] 2024-02-06 13:39:48.735 VideoManager:49 - video path: Android_Nexus5/Videos/Login with invalid user name.mp4
+[Android_Nexus5 INFO ] 2024-02-06 13:39:50.026 BasePage:90 - login with invalidUsername12
+[Android_Nexus5 INFO ] 2024-02-06 13:39:51.691 BasePage:90 - password is secret_sauce
+[Android_Nexus5 INFO ] 2024-02-06 13:39:52.793 BasePage:73 - press login button
+[Android_Nexus5 INFO ] 2024-02-06 13:39:53.303 BasePage:116 - error text is - Username and password do not match any user in this service.
+[Android_Nexus5 INFO ] 2024-02-06 13:39:53.477 VideoManager:49 - video path: Android_Nexus5/Videos/Login with invalid user name.mp4
+[Android_Nexus5 INFO ] 2024-02-06 13:39:54.733 BasePage:90 - login with invalidUsername1234
+[Android_Nexus5 INFO ] 2024-02-06 13:39:55.909 BasePage:90 - password is secret_sauce
+[Android_Nexus5 INFO ] 2024-02-06 13:39:57.001 BasePage:73 - press login button
+[Android_Nexus5 INFO ] 2024-02-06 13:39:57.342 BasePage:116 - error text is - Username and password do not match any user in this service.
+[Android_Nexus5 INFO ] 2024-02-06 13:39:57.513 VideoManager:49 - video path: Android_Nexus5/Videos/Login with invalid user name.mp4
+[Android_Nexus5 INFO ] 2024-02-06 13:39:58.760 BasePage:90 - login with standard_user
+[Android_Nexus5 INFO ] 2024-02-06 13:40:00.421 BasePage:90 - password is invalidPassword
+[Android_Nexus5 INFO ] 2024-02-06 13:40:01.509 BasePage:73 - press login button
+[Android_Nexus5 INFO ] 2024-02-06 13:40:01.896 BasePage:116 - error text is - Username and password do not match any user in this service.
+[Android_Nexus5 INFO ] 2024-02-06 13:40:02.071 VideoManager:49 - video path: Android_Nexus5/Videos/Login with invalid password.mp4
+[Android_Nexus5 INFO ] 2024-02-06 13:40:03.325 BasePage:90 - login with standard_user
+[Android_Nexus5 INFO ] 2024-02-06 13:40:04.478 BasePage:90 - password is secret_sauce
+[Android_Nexus5 INFO ] 2024-02-06 13:40:05.565 BasePage:73 - press login button
+[Android_Nexus5 INFO ] 2024-02-06 13:40:17.629 VideoManager:49 - video path: Android_Nexus5/Videos/Login with valid user name and password.mp4
+[Android_Nexus5 INFO ] 2024-02-06 13:40:55.497 ServerManager:42 - starting appium server
+[Android_Nexus5 INFO ] 2024-02-06 13:40:55.616 ServerManager:58 - Appium server started
+[Android_Nexus5 INFO ] 2024-02-06 13:40:55.641 DriverManager:43 - initializing Appium driver
+[Android_Nexus5 INFO ] 2024-02-06 13:40:55.661 PropertyManager:31 - loading config properties
+[Android_Nexus5 INFO ] 2024-02-06 13:40:55.663 CapabilitiesManager:33 - getting capabilities
+[Android_Nexus5 INFO ] 2024-02-06 13:40:55.666 CapabilitiesManager:51 - appUrl is/Users/user/eclipse-workspace/MasterAppiumFramework_BDD/src/test/resources/app/Android.SauceLabs.Mobile.Sample.app.2.7.1.apk
+[Android_Nexus5 INFO ] 2024-02-06 13:41:03.408 DriverManager:60 - Driver is initialized
+[Android_Nexus5 INFO ] 2024-02-06 13:41:05.991 BasePage:90 - login with invalidUsername
+[Android_Nexus5 INFO ] 2024-02-06 13:41:07.235 BasePage:90 - password is secret_sauce
+[Android_Nexus5 INFO ] 2024-02-06 13:41:07.853 BasePage:73 - press login button
+[Android_Nexus5 INFO ] 2024-02-06 13:41:08.698 BasePage:116 - error text is - Username and password do not match any user in this service.
+[Android_Nexus5 INFO ] 2024-02-06 13:41:08.878 VideoManager:49 - video path: Android_Nexus5/Videos/Login with invalid user name.mp4
+[Android_Nexus5 INFO ] 2024-02-06 13:41:10.414 BasePage:90 - login with invalidUsername12
+[Android_Nexus5 INFO ] 2024-02-06 13:41:12.233 BasePage:90 - password is secret_sauce
+[Android_Nexus5 INFO ] 2024-02-06 13:41:12.842 BasePage:73 - press login button
+[Android_Nexus5 INFO ] 2024-02-06 13:41:13.255 BasePage:116 - error text is - Username and password do not match any user in this service.
+[Android_Nexus5 INFO ] 2024-02-06 13:41:13.479 VideoManager:49 - video path: Android_Nexus5/Videos/Login with invalid user name.mp4
+[Android_Nexus5 INFO ] 2024-02-06 13:41:14.799 BasePage:90 - login with invalidUsername1234
+[Android_Nexus5 INFO ] 2024-02-06 13:41:15.984 BasePage:90 - password is secret_sauce
+[Android_Nexus5 INFO ] 2024-02-06 13:41:16.583 BasePage:73 - press login button
+[Android_Nexus5 INFO ] 2024-02-06 13:41:16.893 BasePage:116 - error text is - Username and password do not match any user in this service.
+[Android_Nexus5 INFO ] 2024-02-06 13:41:17.077 VideoManager:49 - video path: Android_Nexus5/Videos/Login with invalid user name.mp4
+[Android_Nexus5 INFO ] 2024-02-06 13:41:18.323 BasePage:90 - login with standard_user
+[Android_Nexus5 INFO ] 2024-02-06 13:41:19.965 BasePage:90 - password is invalidPassword
+[Android_Nexus5 INFO ] 2024-02-06 13:41:21.053 BasePage:73 - press login button
+[Android_Nexus5 INFO ] 2024-02-06 13:41:21.373 BasePage:116 - error text is - Username and password do not match any user in this service.
+[Android_Nexus5 INFO ] 2024-02-06 13:41:21.549 VideoManager:49 - video path: Android_Nexus5/Videos/Login with invalid password.mp4
+[Android_Nexus5 INFO ] 2024-02-06 13:41:22.799 BasePage:90 - login with standard_user
+[Android_Nexus5 INFO ] 2024-02-06 13:41:23.960 BasePage:90 - password is secret_sauce
+[Android_Nexus5 INFO ] 2024-02-06 13:41:25.039 BasePage:73 - press login button
+[Android_Nexus5 INFO ] 2024-02-06 13:41:37.602 VideoManager:49 - video path: Android_Nexus5/Videos/Login with valid user name and password.mp4

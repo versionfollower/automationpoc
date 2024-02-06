@@ -1,0 +1,90 @@
+[iOS_iPhone_13 INFO ] 2022-03-31 17:48:26.538 ServerManager:30 - starting appium server
+[iOS_iPhone_13 INFO ] 2022-03-31 17:48:27.298 ServerManager:46 - Appium server started
+[iOS_iPhone_13 INFO ] 2022-03-31 17:48:27.304 DriverManager:30 - initializing Appium driver
+[iOS_iPhone_13 INFO ] 2022-03-31 17:48:27.306 CapabilitiesManager:20 - getting capabilities
+[iOS_iPhone_13 INFO ] 2022-03-31 17:48:27.307 CapabilitiesManager:50 - appUrl is/Users/rajatverma/Library/CloudStorage/OneDrive-Personal/Email_95_Data/OneDrive_Eclipse_WS/LearningWS/Final_Code/MasterAppiumFramework_BDD_TestNG/src/test/resources/app/SwagLabsMobileApp.app
+[iOS_iPhone_13 INFO ] 2022-03-31 17:50:27.639 DriverManager:42 - Driver is initialized
+[iOS_iPhone_13 INFO ] 2022-03-31 17:50:30.280 BasePage:78 - login with invalidUsername
+[iOS_iPhone_13 INFO ] 2022-03-31 17:50:33.546 BasePage:78 - password is secret_sauce
+[iOS_iPhone_13 INFO ] 2022-03-31 17:50:34.629 BasePage:61 - press login button
+[iOS_iPhone_13 INFO ] 2022-03-31 17:50:36.493 BasePage:104 - error text is - Username and password do not match any user in this service.
+[iOS_iPhone_13 INFO ] 2022-03-31 17:50:37.265 VideoManager:37 - video path: iOS_iPhone_13/Videos/Login with invalid user name.mp4
+[iOS_iPhone_13 INFO ] 2022-03-31 17:50:40.522 BasePage:78 - login with standard_user
+[iOS_iPhone_13 INFO ] 2022-03-31 17:50:43.923 BasePage:78 - password is invalidPassword
+[iOS_iPhone_13 INFO ] 2022-03-31 17:50:45.250 BasePage:61 - press login button
+[iOS_iPhone_13 INFO ] 2022-03-31 17:50:47.446 BasePage:104 - error text is - Username and password do not match any user in this service.
+[iOS_iPhone_13 INFO ] 2022-03-31 17:50:48.332 VideoManager:37 - video path: iOS_iPhone_13/Videos/Login with invalid password.mp4
+[iOS_iPhone_13 INFO ] 2022-03-31 17:50:50.397 BasePage:78 - login with standard_user
+[iOS_iPhone_13 INFO ] 2022-03-31 17:50:52.717 BasePage:78 - password is secret_sauce
+[iOS_iPhone_13 INFO ] 2022-03-31 17:50:53.479 BasePage:61 - press login button
+[iOS_iPhone_13 INFO ] 2022-03-31 17:50:56.841 BasePage:104 - product page title is - PRODUCTS
+[iOS_iPhone_13 INFO ] 2022-03-31 17:50:57.691 VideoManager:37 - video path: iOS_iPhone_13/Videos/Login with valid user name and password.mp4
+[iOS_iPhone_13 INFO ] 2022-03-31 17:53:11.133 ServerManager:46 - Appium server started
+[iOS_iPhone_13 INFO ] 2022-03-31 17:53:11.182 DriverManager:30 - initializing Appium driver
+[iOS_iPhone_13 INFO ] 2022-03-31 17:53:11.205 PropertyManager:19 - loading config properties
+[iOS_iPhone_13 INFO ] 2022-03-31 17:53:11.214 CapabilitiesManager:20 - getting capabilities
+[iOS_iPhone_13 INFO ] 2022-03-31 17:53:11.224 CapabilitiesManager:50 - appUrl is/Users/rajatverma/Library/CloudStorage/OneDrive-Personal/Email_95_Data/OneDrive_Eclipse_WS/LearningWS/Final_Code/MasterAppiumFramework_BDD_TestNG/src/test/resources/app/SwagLabsMobileApp.app
+[iOS_iPhone_13 INFO ] 2022-03-31 17:53:34.718 DriverManager:42 - Driver is initialized
+[iOS_iPhone_13 INFO ] 2022-03-31 17:53:47.953 BasePage:78 - login with invalidUsername
+[iOS_iPhone_13 INFO ] 2022-03-31 17:53:56.640 BasePage:78 - password is secret_sauce
+[iOS_iPhone_13 INFO ] 2022-03-31 17:53:59.553 BasePage:61 - press login button
+[iOS_iPhone_13 INFO ] 2022-03-31 17:54:04.643 BasePage:104 - error text is - Username and password do not match any user in this service.
+[iOS_iPhone_13 INFO ] 2022-03-31 17:54:09.483 VideoManager:37 - video path: iOS_iPhone_13/Videos/Login with invalid user name.mp4
+[iOS_iPhone_13 INFO ] 2022-03-31 17:54:19.808 BasePage:78 - login with standard_user
+[iOS_iPhone_13 INFO ] 2022-03-31 17:54:24.427 BasePage:78 - password is invalidPassword
+[iOS_iPhone_13 INFO ] 2022-03-31 17:54:25.815 BasePage:61 - press login button
+[iOS_iPhone_13 INFO ] 2022-03-31 17:54:30.223 BasePage:104 - error text is - Username and password do not match any user in this service.
+[iOS_iPhone_13 INFO ] 2022-03-31 17:54:53.729 VideoManager:37 - video path: iOS_iPhone_13/Videos/Login with invalid password.mp4
+[iOS_iPhone_13 INFO ] 2022-03-31 17:55:12.658 BasePage:78 - login with standard_user
+[iOS_iPhone_13 INFO ] 2022-03-31 17:55:22.539 BasePage:78 - password is secret_sauce
+[iOS_iPhone_13 INFO ] 2022-03-31 17:55:23.839 BasePage:61 - press login button
+[iOS_iPhone_13 INFO ] 2022-03-31 17:55:42.580 BasePage:104 - product page title is - PRODUCTS
+[iOS_iPhone_13 INFO ] 2022-03-31 17:55:54.082 VideoManager:37 - video path: iOS_iPhone_13/Videos/Login with valid user name and password.mp4
+[iOS_iPhone_13 INFO ] 2024-02-06 09:30:23.503 ServerManager:42 - starting appium server
+[iOS_iPhone_13 INFO ] 2024-02-06 09:30:44.932 ServerManager:42 - starting appium server
+[iOS_iPhone_13 INFO ] 2024-02-06 09:34:47.270 ServerManager:42 - starting appium server
+[iOS_iPhone_13 INFO ] 2024-02-06 09:40:59.406 ServerManager:42 - starting appium server
+[iOS_iPhone_13 INFO ] 2024-02-06 09:49:55.939 ServerManager:42 - starting appium server
+[iOS_iPhone_13 INFO ] 2024-02-06 09:50:43.438 ServerManager:42 - starting appium server
+[iOS_iPhone_13 INFO ] 2024-02-06 09:52:04.192 ServerManager:42 - starting appium server
+[iOS_iPhone_13 INFO ] 2024-02-06 09:52:04.223 ServerManager:58 - Appium server started
+[iOS_iPhone_13 INFO ] 2024-02-06 09:52:04.223 DriverManager:42 - initializing Appium driver
+[iOS_iPhone_13 INFO ] 2024-02-06 09:52:04.225 CapabilitiesManager:32 - getting capabilities
+[iOS_iPhone_13 INFO ] 2024-02-06 09:52:04.225 CapabilitiesManager:62 - appUrl is/Users/user/eclipse-workspace/MasterAppiumFramework_BDD/src/test/resources/app/SwagLabsMobileApp.app
+[iOS_iPhone_13 INFO ] 2024-02-06 09:52:52.377 ServerManager:42 - starting appium server
+[iOS_iPhone_13 INFO ] 2024-02-06 09:52:52.409 ServerManager:58 - Appium server started
+[iOS_iPhone_13 INFO ] 2024-02-06 09:52:52.410 DriverManager:42 - initializing Appium driver
+[iOS_iPhone_13 INFO ] 2024-02-06 09:52:52.412 CapabilitiesManager:32 - getting capabilities
+[iOS_iPhone_13 INFO ] 2024-02-06 09:52:52.413 CapabilitiesManager:62 - appUrl is/Users/user/eclipse-workspace/MasterAppiumFramework_BDD/src/test/resources/app/SwagLabsMobileApp.app
+[iOS_iPhone_13 INFO ] 2024-02-06 09:55:13.815 ServerManager:42 - starting appium server
+[iOS_iPhone_13 INFO ] 2024-02-06 09:55:13.848 ServerManager:58 - Appium server started
+[iOS_iPhone_13 INFO ] 2024-02-06 09:55:13.849 DriverManager:42 - initializing Appium driver
+[iOS_iPhone_13 INFO ] 2024-02-06 09:55:13.851 CapabilitiesManager:32 - getting capabilities
+[iOS_iPhone_13 INFO ] 2024-02-06 09:55:13.851 CapabilitiesManager:62 - appUrl is/Users/user/eclipse-workspace/MasterAppiumFramework_BDD/src/test/resources/app/SwagLabsMobileApp.app
+[iOS_iPhone_13 INFO ] 2024-02-06 09:55:31.497 ServerManager:42 - starting appium server
+[iOS_iPhone_13 FATAL] 2024-02-06 09:55:36.134 ServerManager:52 - Appium server not started. ABORT!!!
+[iOS_iPhone_13 INFO ] 2024-02-06 10:50:20.296 ServerManager:42 - starting appium server
+[iOS_iPhone_13 INFO ] 2024-02-06 10:50:20.350 ServerManager:58 - Appium server started
+[iOS_iPhone_13 INFO ] 2024-02-06 10:50:20.351 DriverManager:42 - initializing Appium driver
+[iOS_iPhone_13 INFO ] 2024-02-06 10:50:20.356 CapabilitiesManager:32 - getting capabilities
+[iOS_iPhone_13 INFO ] 2024-02-06 10:50:20.357 CapabilitiesManager:62 - appUrl is/Users/user/eclipse-workspace/MasterAppiumFramework_BDD/src/test/resources/app/SwagLabsMobileApp.app
+[iOS_iPhone_13 INFO ] 2024-02-06 10:55:12.155 ServerManager:42 - starting appium server
+[iOS_iPhone_13 INFO ] 2024-02-06 10:55:12.187 ServerManager:58 - Appium server started
+[iOS_iPhone_13 INFO ] 2024-02-06 10:55:12.187 DriverManager:42 - initializing Appium driver
+[iOS_iPhone_13 INFO ] 2024-02-06 10:55:12.189 CapabilitiesManager:32 - getting capabilities
+[iOS_iPhone_13 INFO ] 2024-02-06 10:55:12.190 CapabilitiesManager:62 - appUrl is/Users/user/eclipse-workspace/MasterAppiumFramework_BDD/src/test/resources/app/SwagLabsMobileApp.app
+[iOS_iPhone_13 INFO ] 2024-02-06 10:56:56.413 ServerManager:42 - starting appium server
+[iOS_iPhone_13 INFO ] 2024-02-06 10:56:56.449 ServerManager:58 - Appium server started
+[iOS_iPhone_13 INFO ] 2024-02-06 10:56:56.450 DriverManager:42 - initializing Appium driver
+[iOS_iPhone_13 INFO ] 2024-02-06 10:56:56.452 CapabilitiesManager:32 - getting capabilities
+[iOS_iPhone_13 INFO ] 2024-02-06 10:56:56.453 CapabilitiesManager:62 - appUrl is/Users/user/eclipse-workspace/MasterAppiumFramework_BDD/src/test/resources/app/SwagLabsMobileApp.app
+[iOS_iPhone_13 INFO ] 2024-02-06 11:16:34.268 ServerManager:42 - starting appium server
+[iOS_iPhone_13 INFO ] 2024-02-06 11:16:34.322 ServerManager:58 - Appium server started
+[iOS_iPhone_13 INFO ] 2024-02-06 11:16:34.323 DriverManager:43 - initializing Appium driver
+[iOS_iPhone_13 INFO ] 2024-02-06 11:16:34.325 CapabilitiesManager:32 - getting capabilities
+[iOS_iPhone_13 INFO ] 2024-02-06 11:16:34.326 CapabilitiesManager:62 - appUrl is/Users/user/eclipse-workspace/MasterAppiumFramework_BDD/src/test/resources/app/SwagLabsMobileApp.app
+[iOS_iPhone_13 INFO ] 2024-02-06 11:20:43.485 ServerManager:42 - starting appium server
+[iOS_iPhone_13 INFO ] 2024-02-06 11:20:43.539 ServerManager:58 - Appium server started
+[iOS_iPhone_13 INFO ] 2024-02-06 11:20:43.540 DriverManager:43 - initializing Appium driver
+[iOS_iPhone_13 INFO ] 2024-02-06 11:20:43.542 CapabilitiesManager:32 - getting capabilities
+[iOS_iPhone_13 INFO ] 2024-02-06 11:20:43.543 CapabilitiesManager:62 - appUrl is/Users/user/eclipse-workspace/MasterAppiumFramework_BDD/src/test/resources/app/SwagLabsMobileApp.app

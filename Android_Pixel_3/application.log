@@ -1,0 +1,93 @@
+[Android_Pixel_3 INFO ] 2022-03-31 17:48:26.917 ServerManager:46 - Appium server started
+[Android_Pixel_3 INFO ] 2022-03-31 17:48:26.965 DriverManager:30 - initializing Appium driver
+[Android_Pixel_3 INFO ] 2022-03-31 17:48:27.016 PropertyManager:19 - loading config properties
+[Android_Pixel_3 INFO ] 2022-03-31 17:48:27.021 CapabilitiesManager:20 - getting capabilities
+[Android_Pixel_3 INFO ] 2022-03-31 17:48:27.026 CapabilitiesManager:38 - appUrl is/Users/rajatverma/Library/CloudStorage/OneDrive-Personal/Email_95_Data/OneDrive_Eclipse_WS/LearningWS/Final_Code/MasterAppiumFramework_BDD_TestNG/src/test/resources/app/Android.SauceLabs.Mobile.Sample.app.2.7.1.apk
+[Android_Pixel_3 INFO ] 2022-03-31 17:48:59.405 DriverManager:42 - Driver is initialized
+[Android_Pixel_3 INFO ] 2022-03-31 17:49:30.567 BasePage:78 - login with invalidUsername
+[Android_Pixel_3 INFO ] 2022-03-31 17:49:32.062 BasePage:78 - password is secret_sauce
+[Android_Pixel_3 INFO ] 2022-03-31 17:49:32.744 BasePage:61 - press login button
+[Android_Pixel_3 INFO ] 2022-03-31 17:49:34.276 BasePage:104 - error text is - Username and password do not match any user in this service.
+[Android_Pixel_3 INFO ] 2022-03-31 17:49:35.506 VideoManager:37 - video path: Android_Pixel_3/Videos/Login with invalid user name.mp4
+[Android_Pixel_3 INFO ] 2022-03-31 17:49:37.362 BasePage:78 - login with standard_user
+[Android_Pixel_3 INFO ] 2022-03-31 17:49:38.935 BasePage:78 - password is invalidPassword
+[Android_Pixel_3 INFO ] 2022-03-31 17:49:40.113 BasePage:61 - press login button
+[Android_Pixel_3 INFO ] 2022-03-31 17:49:42.196 BasePage:104 - error text is - Username and password do not match any user in this service.
+[Android_Pixel_3 INFO ] 2022-03-31 17:49:45.294 VideoManager:37 - video path: Android_Pixel_3/Videos/Login with invalid password.mp4
+[Android_Pixel_3 INFO ] 2022-03-31 17:49:47.506 BasePage:78 - login with standard_user
+[Android_Pixel_3 INFO ] 2022-03-31 17:49:49.694 BasePage:78 - password is secret_sauce
+[Android_Pixel_3 INFO ] 2022-03-31 17:49:50.802 BasePage:61 - press login button
+[Android_Pixel_3 INFO ] 2022-03-31 17:50:05.649 VideoManager:37 - video path: Android_Pixel_3/Videos/Login with valid user name and password.mp4
+[Android_Pixel_3 INFO ] 2022-03-31 17:53:11.131 ServerManager:46 - Appium server started
+[Android_Pixel_3 INFO ] 2022-03-31 17:53:11.182 DriverManager:30 - initializing Appium driver
+[Android_Pixel_3 INFO ] 2022-03-31 17:53:11.205 PropertyManager:19 - loading config properties
+[Android_Pixel_3 INFO ] 2022-03-31 17:53:11.214 CapabilitiesManager:20 - getting capabilities
+[Android_Pixel_3 INFO ] 2022-03-31 17:53:11.224 CapabilitiesManager:38 - appUrl is/Users/rajatverma/Library/CloudStorage/OneDrive-Personal/Email_95_Data/OneDrive_Eclipse_WS/LearningWS/Final_Code/MasterAppiumFramework_BDD_TestNG/src/test/resources/app/Android.SauceLabs.Mobile.Sample.app.2.7.1.apk
+[Android_Pixel_3 INFO ] 2022-03-31 17:53:43.955 DriverManager:42 - Driver is initialized
+[Android_Pixel_3 INFO ] 2022-03-31 17:53:47.838 BasePage:78 - login with invalidUsername
+[Android_Pixel_3 INFO ] 2022-03-31 17:53:49.884 BasePage:78 - password is secret_sauce
+[Android_Pixel_3 INFO ] 2022-03-31 17:53:51.200 BasePage:61 - press login button
+[Android_Pixel_3 INFO ] 2022-03-31 17:53:59.821 BasePage:104 - error text is - Username and password do not match any user in this service.
+[Android_Pixel_3 INFO ] 2022-03-31 17:54:05.429 VideoManager:37 - video path: Android_Pixel_3/Videos/Login with invalid user name.mp4
+[Android_Pixel_3 INFO ] 2022-03-31 17:54:08.901 BasePage:78 - login with standard_user
+[Android_Pixel_3 INFO ] 2022-03-31 17:54:13.362 BasePage:78 - password is invalidPassword
+[Android_Pixel_3 INFO ] 2022-03-31 17:54:15.832 BasePage:61 - press login button
+[Android_Pixel_3 INFO ] 2022-03-31 17:54:21.234 BasePage:104 - error text is - Username and password do not match any user in this service.
+[Android_Pixel_3 INFO ] 2022-03-31 17:54:25.318 VideoManager:37 - video path: Android_Pixel_3/Videos/Login with invalid password.mp4
+[Android_Pixel_3 INFO ] 2022-03-31 17:54:37.910 BasePage:78 - login with standard_user
+[Android_Pixel_3 INFO ] 2022-03-31 17:54:43.286 BasePage:78 - password is secret_sauce
+[Android_Pixel_3 INFO ] 2022-03-31 17:54:48.068 BasePage:61 - press login button
+[Android_Pixel_3 INFO ] 2022-03-31 17:55:26.550 VideoManager:37 - video path: Android_Pixel_3/Videos/Login with valid user name and password.mp4
+[Android_Pixel_3 INFO ] 2024-02-06 04:05:34.132 ServerManager:42 - starting appium server
+[Android_Pixel_3 INFO ] 2024-02-06 09:27:06.730 ServerManager:42 - starting appium server
+[Android_Pixel_3 INFO ] 2024-02-06 09:39:29.027 ServerManager:42 - starting appium server
+[Android_Pixel_3 INFO ] 2024-02-06 09:55:36.165 ServerManager:58 - Appium server started
+[Android_Pixel_3 INFO ] 2024-02-06 09:55:36.183 DriverManager:42 - initializing Appium driver
+[Android_Pixel_3 INFO ] 2024-02-06 09:55:36.207 PropertyManager:31 - loading config properties
+[Android_Pixel_3 INFO ] 2024-02-06 09:55:36.210 CapabilitiesManager:32 - getting capabilities
+[Android_Pixel_3 INFO ] 2024-02-06 09:55:36.213 CapabilitiesManager:50 - appUrl is/Users/user/eclipse-workspace/MasterAppiumFramework_BDD/src/test/resources/app/Android.SauceLabs.Mobile.Sample.app.2.7.1.apk
+[Android_Pixel_3 INFO ] 2024-02-06 09:56:33.900 ServerManager:42 - starting appium server
+[Android_Pixel_3 INFO ] 2024-02-06 09:56:33.937 ServerManager:58 - Appium server started
+[Android_Pixel_3 INFO ] 2024-02-06 09:56:33.938 DriverManager:42 - initializing Appium driver
+[Android_Pixel_3 INFO ] 2024-02-06 09:56:33.940 CapabilitiesManager:32 - getting capabilities
+[Android_Pixel_3 INFO ] 2024-02-06 09:56:33.940 CapabilitiesManager:50 - appUrl is/Users/user/eclipse-workspace/MasterAppiumFramework_BDD/src/test/resources/app/Android.SauceLabs.Mobile.Sample.app.2.7.1.apk
+[Android_Pixel_3 INFO ] 2024-02-06 10:04:06.887 ServerManager:42 - starting appium server
+[Android_Pixel_3 INFO ] 2024-02-06 10:04:06.918 ServerManager:58 - Appium server started
+[Android_Pixel_3 INFO ] 2024-02-06 10:04:06.918 DriverManager:42 - initializing Appium driver
+[Android_Pixel_3 INFO ] 2024-02-06 10:04:06.920 CapabilitiesManager:32 - getting capabilities
+[Android_Pixel_3 INFO ] 2024-02-06 10:04:06.921 CapabilitiesManager:50 - appUrl is/Users/user/eclipse-workspace/MasterAppiumFramework_BDD/src/test/resources/app/Android.SauceLabs.Mobile.Sample.app.2.7.1.apk
+[Android_Pixel_3 INFO ] 2024-02-06 10:59:25.321 ServerManager:42 - starting appium server
+[Android_Pixel_3 INFO ] 2024-02-06 10:59:25.355 ServerManager:58 - Appium server started
+[Android_Pixel_3 INFO ] 2024-02-06 10:59:25.356 DriverManager:42 - initializing Appium driver
+[Android_Pixel_3 INFO ] 2024-02-06 10:59:25.358 CapabilitiesManager:32 - getting capabilities
+[Android_Pixel_3 INFO ] 2024-02-06 10:59:25.358 CapabilitiesManager:50 - appUrl is/Users/user/eclipse-workspace/MasterAppiumFramework_BDD/src/test/resources/app/Android.SauceLabs.Mobile.Sample.app.2.7.1.apk
+[Android_Pixel_3 INFO ] 2024-02-06 11:06:44.212 ServerManager:42 - starting appium server
+[Android_Pixel_3 INFO ] 2024-02-06 11:06:44.243 ServerManager:58 - Appium server started
+[Android_Pixel_3 INFO ] 2024-02-06 11:06:44.244 DriverManager:42 - initializing Appium driver
+[Android_Pixel_3 INFO ] 2024-02-06 11:06:44.246 CapabilitiesManager:32 - getting capabilities
+[Android_Pixel_3 INFO ] 2024-02-06 11:06:44.247 CapabilitiesManager:50 - appUrl is/Users/user/eclipse-workspace/MasterAppiumFramework_BDD/src/test/resources/app/Android.SauceLabs.Mobile.Sample.app.2.7.1.apk
+[Android_Pixel_3 INFO ] 2024-02-06 11:07:27.583 ServerManager:42 - starting appium server
+[Android_Pixel_3 INFO ] 2024-02-06 11:07:27.617 ServerManager:58 - Appium server started
+[Android_Pixel_3 INFO ] 2024-02-06 11:07:27.618 DriverManager:42 - initializing Appium driver
+[Android_Pixel_3 INFO ] 2024-02-06 11:07:27.619 CapabilitiesManager:32 - getting capabilities
+[Android_Pixel_3 INFO ] 2024-02-06 11:07:27.620 CapabilitiesManager:50 - appUrl is/Users/user/eclipse-workspace/MasterAppiumFramework_BDD/src/test/resources/app/Android.SauceLabs.Mobile.Sample.app.2.7.1.apk
+[Android_Pixel_3 INFO ] 2024-02-06 11:08:26.485 ServerManager:42 - starting appium server
+[Android_Pixel_3 INFO ] 2024-02-06 11:08:26.514 ServerManager:58 - Appium server started
+[Android_Pixel_3 INFO ] 2024-02-06 11:08:26.515 DriverManager:42 - initializing Appium driver
+[Android_Pixel_3 INFO ] 2024-02-06 11:08:26.517 CapabilitiesManager:32 - getting capabilities
+[Android_Pixel_3 INFO ] 2024-02-06 11:08:26.518 CapabilitiesManager:50 - appUrl is/Users/user/eclipse-workspace/MasterAppiumFramework_BDD/src/test/resources/app/Android.SauceLabs.Mobile.Sample.app.2.7.1.apk
+[Android_Pixel_3 INFO ] 2024-02-06 11:09:18.547 ServerManager:42 - starting appium server
+[Android_Pixel_3 INFO ] 2024-02-06 11:09:18.582 ServerManager:58 - Appium server started
+[Android_Pixel_3 INFO ] 2024-02-06 11:09:18.582 DriverManager:42 - initializing Appium driver
+[Android_Pixel_3 INFO ] 2024-02-06 11:09:18.584 CapabilitiesManager:32 - getting capabilities
+[Android_Pixel_3 INFO ] 2024-02-06 11:09:18.585 CapabilitiesManager:50 - appUrl is/Users/user/eclipse-workspace/MasterAppiumFramework_BDD/src/test/resources/app/Android.SauceLabs.Mobile.Sample.app.2.7.1.apk
+[Android_Pixel_3 INFO ] 2024-02-06 11:11:06.281 ServerManager:42 - starting appium server
+[Android_Pixel_3 INFO ] 2024-02-06 11:11:06.309 ServerManager:58 - Appium server started
+[Android_Pixel_3 INFO ] 2024-02-06 11:11:06.310 DriverManager:42 - initializing Appium driver
+[Android_Pixel_3 INFO ] 2024-02-06 11:11:06.311 CapabilitiesManager:32 - getting capabilities
+[Android_Pixel_3 INFO ] 2024-02-06 11:11:06.312 CapabilitiesManager:50 - appUrl is/Users/user/eclipse-workspace/MasterAppiumFramework_BDD/src/test/resources/app/Android.SauceLabs.Mobile.Sample.app.2.7.1.apk
+[Android_Pixel_3 INFO ] 2024-02-06 11:15:29.958 ServerManager:42 - starting appium server
+[Android_Pixel_3 INFO ] 2024-02-06 11:15:29.992 ServerManager:58 - Appium server started
+[Android_Pixel_3 INFO ] 2024-02-06 11:15:29.993 DriverManager:43 - initializing Appium driver
+[Android_Pixel_3 INFO ] 2024-02-06 11:15:29.994 CapabilitiesManager:32 - getting capabilities
+[Android_Pixel_3 INFO ] 2024-02-06 11:15:29.995 CapabilitiesManager:50 - appUrl is/Users/user/eclipse-workspace/MasterAppiumFramework_BDD/src/test/resources/app/Android.SauceLabs.Mobile.Sample.app.2.7.1.apk

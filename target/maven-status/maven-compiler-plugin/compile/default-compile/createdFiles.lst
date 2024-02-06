@@ -1,0 +1,16 @@
+com/appium/pages/BasePage$1.class
+com/appium/utils/UsernameUtils.class
+com/appium/manager/DriverManager.class
+com/appium/manager/CapabilitiesManager.class
+com/appium/utils/TestUtils.class
+com/appium/manager/GlobalParams.class
+com/appium/pages/MenuPage.class
+com/appium/manager/ServerManager.class
+com/appium/pages/BasePage.class
+com/appium/pages/BasePage$2.class
+com/appium/pages/LoginPage.class
+com/appium/pages/SettingsPage.class
+com/appium/manager/VideoManager.class
+com/appium/pages/ProductsPage.class
+com/appium/pages/ProductDetailsPage.class
+com/appium/manager/PropertyManager.class

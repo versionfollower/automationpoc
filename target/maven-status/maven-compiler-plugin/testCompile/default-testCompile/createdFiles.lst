@@ -1,0 +1,7 @@
+com/appium/runners/TestNGRunner_iPhone13.class
+com/appium/stepDefinitions/Hooks.class
+com/appium/runners/TestNGRunner_Pixel3.class
+com/appium/stepDefinitions/ProductStepDef.class
+com/appium/runners/RunnerBase.class
+com/appium/runners/TestNGRunner_iPhoneXR.class
+com/appium/stepDefinitions/LoginStepDef.class
